@@ -1,0 +1,8 @@
+/Users/jems/cognito/java-integration-with-amazon-cognito/aws-cognito/src/main/java/com/example/demo/configuration/CommonConfiguration.java
+/Users/jems/cognito/java-integration-with-amazon-cognito/aws-cognito/src/main/java/com/example/demo/dto/UserToken.java
+/Users/jems/cognito/java-integration-with-amazon-cognito/aws-cognito/src/main/java/com/example/demo/service/UserService.java
+/Users/jems/cognito/java-integration-with-amazon-cognito/aws-cognito/src/main/java/com/example/demo/configuration/cognitoConfiguration.java
+/Users/jems/cognito/java-integration-with-amazon-cognito/aws-cognito/src/main/java/com/example/demo/controller/UserController.java
+/Users/jems/cognito/java-integration-with-amazon-cognito/aws-cognito/src/main/java/com/example/demo/AwsCognitoApplication.java
+/Users/jems/cognito/java-integration-with-amazon-cognito/aws-cognito/src/main/java/com/example/demo/serviceImpl/UserServiceImpl.java
+/Users/jems/cognito/java-integration-with-amazon-cognito/aws-cognito/src/main/java/com/example/demo/dto/UserSignUpRequest.java
